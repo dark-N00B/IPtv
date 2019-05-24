@@ -99,10 +99,10 @@ http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2013
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2728
 #EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/espn.png" group-title="Sports",ESPN
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/" group-title="Sports",BYUTV Sports HD
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/" group-title="Sports",ESPN 2
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/445
+#EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/" group-title="Sports",BYUTV Sports HD
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",UNIVERSAL kids
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/417
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Cartoon Network
