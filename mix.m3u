@@ -11,6 +11,8 @@ https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop News 24/7" tvg-logo="" group-title="News",BBC WORLD NEWS
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/431
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop News 24/7" tvg-logo="" group-title="News",CNBC World
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/1010
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Others",177 HD
 http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Channel
@@ -19,6 +21,8 @@ http://80.80.160.168/live/8/live.m3u8
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/451
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Science
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/449
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Velocity
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/988
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Animal Planet
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/455
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",NATGEO
@@ -27,12 +31,28 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/422
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/436
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",TBS
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/421
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",BBC America
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/1055
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Investigation Discovery Pacific
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/896
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",KTVU Plus
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/895
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",My 24
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",FOX10 Xtra
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/790
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",DIY Network
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/448
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",Destination America
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/998
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",Hallmark Channel
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/899
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",bravo
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/454
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",Cooking Channel
 http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",Food Network
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/926
 #EXTINF:-1 tvg-id="" tvg-name="Beach 24/7" tvg-logo="/logo/beachtv.jpg" group-title="LifeStyle",Beach TV
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion 24/7" tvg-logo="/logo/gfc.png" group-title="LifeStyle",Global Fashion Channel
@@ -49,18 +69,36 @@ http://161.0.157.51/PLTV/88888888/224/3221226078/index.m3u8?fluxustv.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Music 24/7" tvg-logo="/logo/mtv-usa.png" group-title="Music",MTV
 http://espn.tmedia.me/cache/mtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Hot Music 24/7" tvg-logo="/logo/djing.jpg" group-title="Music",DJing Hot
-http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Hit Music 24/7" tvg-logo="/logo/djing.jpg" group-title="Music",DJing Hits
-http://www.djing.com/tv/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Wild EDM 24/7" tvg-logo="/logo/djing.jpg" group-title="Music",DJing Wild EDM
-http://www.djing.com/tv/session_wild-edm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/hbo.png" group-title="Movies",HBO
-http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/hbo2.png" group-title="Movies",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",AMC
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/456
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Cozi TV
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/1000
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Decades
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/999
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Epix Hits
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/974.
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Freeform
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/905
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",FX
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/929
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",FXM
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/928
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",FXX
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/927
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Starz Cinema
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2727
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Hallmark Movies & Mysteries
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/898
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Sundance
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/824
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Starz Encore Classic
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2722
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",HBO Comedy
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2013
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Starz Comedy
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2728
 #EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/espn.png" group-title="Sports",ESPN
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/" group-title="Sports",BYUTV Sports HD
