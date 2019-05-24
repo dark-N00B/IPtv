@@ -2,7 +2,9 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="PORN 24/7" tvg-logo="" group-title="XXX",Penthouse HD
 http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PORN 24/7" tvg-logo="" group-title="XXX",Jasmin TV HD
+#EXTINF:-1 tvg-id="" tvg-name="PORN 24/7" tvg-logo="" group-title="XXX",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/vh1-europe.png" group-title="Music",VH1 Europe
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Music 24/7" tvg-logo="/logo/vh1-europe.png" group-title="Music",VH1 Europe
 http://161.0.157.51/PLTV/88888888/224/3221226078/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Music 24/7" tvg-logo="/logo/mc.jpg" group-title="Music",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
