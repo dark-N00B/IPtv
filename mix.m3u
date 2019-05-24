@@ -49,12 +49,6 @@ http://161.0.157.51/PLTV/88888888/224/3221226078/index.m3u8?fluxustv.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Music 24/7" tvg-logo="/logo/mtv-usa.png" group-title="Music",MTV
 http://espn.tmedia.me/cache/mtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Hot Music 24/7" tvg-logo="/logo/djing.jpg" group-title="Music",DJing Hot
-http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Hit Music 24/7" tvg-logo="/logo/djing.jpg" group-title="Music",DJing Hits
-http://www.djing.com/tv/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Wild EDM 24/7" tvg-logo="/logo/djing.jpg" group-title="Music",DJing Wild EDM
-http://www.djing.com/tv/session_wild-edm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/hbo.png" group-title="Movies",HBO
 http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/hbo2.png" group-title="Movies",HBO 2
