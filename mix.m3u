@@ -13,6 +13,8 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/431
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop News 24/7" tvg-logo="" group-title="News",CNBC World
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/1010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/551035274344402946/ywxl9pq3_400x400.jpeg" group-title="News",100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Others",177 HD
 http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Channel
@@ -69,6 +71,8 @@ http://161.0.157.51/PLTV/88888888/224/3221226078/index.m3u8?fluxustv.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Music 24/7" tvg-logo="/logo/mtv-usa.png" group-title="Music",MTV
 http://espn.tmedia.me/cache/mtv.m3u8
+#EXTINF:-1 tvg-id="BoxHits.uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="Music",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/hbo2.png" group-title="Movies",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",AMC
