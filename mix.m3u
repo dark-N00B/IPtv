@@ -8,3 +8,5 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 http://161.0.157.51/PLTV/88888888/224/3221226078/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Music 24/7" tvg-logo="/logo/mc.jpg" group-title="Music",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/mtv-usa.png" group-title="Music",MTV
+http://espn.tmedia.me/cache/mtv.m3u8
