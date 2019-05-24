@@ -1,12 +1,38 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop News 24/7" tvg-logo="/logo/" group-title="News",CNN
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/452
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Business News 24/7" tvg-logo="/logo/cnbc.png" group-title="News",CNBC
 http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop News 24/7" tvg-logo="/logo/abc.png" group-title="News",ABC News
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Business News 24/7" tvg-logo="/logo/btv.png" group-title="News",Bloomberg Asia
 https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Others",177 HD
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop News 24/7" tvg-logo="" group-title="News",CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop News 24/7" tvg-logo="" group-title="News",BBC WORLD NEWS
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/431
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Others",177 HD
 http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Channel
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Channel HD
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/451
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Science
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/449
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Animal Planet
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/455
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",NATGEO
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",SYFY
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/436
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",TBS
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/421
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",DIY Network
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/448
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",bravo
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/454
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beach 24/7" tvg-logo="/logo/beachtv.jpg" group-title="LifeStyle",Beach TV
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion 24/7" tvg-logo="/logo/gfc.png" group-title="LifeStyle",Global Fashion Channel
@@ -33,7 +59,21 @@ http://www.djing.com/tv/session_wild-edm.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/hbo2.png" group-title="Movies",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",AMC
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/456
 #EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/espn.png" group-title="Sports",ESPN
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="" group-title="Sports",BYUTV Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/" group-title="Sports",BYUTV Sports HD
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/" group-title="Sports",ESPN 2
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/445
+#EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Cartoon Network
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/429
+#EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Discovery Family
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/450
+#EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Disney Channel
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/428
+#EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Disney Junior
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/427
+#EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Disney XD
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/426
