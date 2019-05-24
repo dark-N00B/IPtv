@@ -5,8 +5,6 @@ http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Business News 24/7" tvg-logo="/logo/btv.png" group-title="News",Bloomberg Asia
 https://bblive-liveprodapnortheast.hs.llnwd.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Others",BYUTV
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Others",177 HD
 http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beach 24/7" tvg-logo="/logo/beachtv.jpg" group-title="LifeStyle",Beach TV
@@ -37,3 +35,5 @@ http://161.0.157.5/PLTV/88888888/224/3221226122/index.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/espn.png" group-title="Sports",ESPN
 http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="" group-title="Sports",BYUTV Sports HD
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
