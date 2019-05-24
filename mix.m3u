@@ -75,10 +75,8 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/456
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Cozi TV
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/1000
-#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Decades
+#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",start TV
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/999
-#EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Epix Hits
-http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/974.
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Freeform
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/905
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",FX
