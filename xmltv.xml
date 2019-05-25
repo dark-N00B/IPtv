@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv source-info-name="Zap2it" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
+	<channel id="I1.28458567.microsoft.com">
+		<display-name>VODDM</display-name>
+		<display-name>1 VODDM</display-name>
+		<display-name>1</display-name>
+		<display-name>Video On Demand</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<channel id="I2.28457033.microsoft.com">
+		<display-name>KCBSDT</display-name>
+		<display-name>2 KCBSDT</display-name>
+		<display-name>2</display-name>
+		<display-name>KCBSDT (KCBS-DT)</display-name>
+		<display-name>CBS Affiliate</display-name>
+	</channel>
+	<channel id="I2.28459808.microsoft.com">
+		<display-name>KCBS</display-name>
+		<display-name>2 KCBS</display-name>
+		<display-name>2</display-name>
+		<display-name>CBS Affiliate</display-name>
+	</channel>
+	<channel id="I3.28457778.microsoft.com">
+		<display-name>KILM</display-name>
+		<display-name>3 KILM</display-name>
+		<display-name>3</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I4.28455445.microsoft.com">
+		<display-name>KNBC</display-name>
+		<display-name>4 KNBC</display-name>
+		<display-name>4</display-name>
+		<display-name>NBC Affiliate</display-name>
+	</channel>
+	<channel id="I4.28460666.microsoft.com">
+		<display-name>KNBCDT</display-name>
+		<display-name>4 KNBCDT</display-name>
+		<display-name>4</display-name>
+		<display-name>KNBCDT (KNBC-DT)</display-name>
+		<display-name>NBC Affiliate</display-name>
+	</channel>
+	<channel id="I5.29434899.microsoft.com">
+		<display-name>KTLADT</display-name>
+		<display-name>5 KTLADT</display-name>
+		<display-name>5</display-name>
+		<display-name>KTLADT (KTLA-DT)</display-name>
+		<display-name>CW Affiliate</display-name>
+	</channel>
+	<channel id="I7.28461002.microsoft.com">
+		<display-name>KABC</display-name>
+		<display-name>7 KABC</display-name>
+		<display-name>7</display-name>
+		<display-name>ABC Affiliate</display-name>
+	</channel>
+	<channel id="I7.28461190.microsoft.com">
+		<display-name>KABCDT</display-name>
+		<display-name>7 KABCDT</display-name>
+		<display-name>7</display-name>
+		<display-name>KABCDT (KABC-DT)</display-name>
+		<display-name>ABC Affiliate</display-name>
+	</channel>
+	<channel id="I9.28460864.microsoft.com">
+		<display-name>KCAL</display-name>
+		<display-name>9 KCAL</display-name>
+		<display-name>9</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I9.29434900.microsoft.com">
+		<display-name>KCALDT</display-name>
+		<display-name>9 KCALDT</display-name>
+		<display-name>9</display-name>
+		<display-name>KCALDT (KCAL-DT)</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I11.28457693.microsoft.com">
+		<display-name>KTTV</display-name>
+		<display-name>11 KTTV</display-name>
+		<display-name>11</display-name>
+		<display-name>Fox Affiliate</display-name>
+	</channel>
+	<channel id="I11.28457791.microsoft.com">
+		<display-name>KTTVDT</display-name>
+		<display-name>11 KTTVDT</display-name>
+		<display-name>11</display-name>
+		<display-name>KTTVDT (KTTV-DT)</display-name>
+		<display-name>Fox Affiliate</display-name>
+	</channel>
+	<channel id="I13.28460230.microsoft.com">
+		<display-name>KCOP</display-name>
+		<display-name>13 KCOP</display-name>
+		<display-name>13</display-name>
+		<display-name>MyNetworkTV Affiliate</display-name>
+	</channel>
+	<channel id="I13.29434898.microsoft.com">
+		<display-name>KCOPDT</display-name>
+		<display-name>13 KCOPDT</display-name>
+		<display-name>13</display-name>
+		<display-name>KCOPDT (KCOP-DT)</display-name>
+		<display-name>MyNetworkTV Affiliate</display-name>
+	</channel>
+	<channel id="I18.28456756.microsoft.com">
+		<display-name>KSCI</display-name>
+		<display-name>18 KSCI</display-name>
+		<display-name>18</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I20.183384200.microsoft.com">
+		<display-name>KVME</display-name>
+		<display-name>20 KVME</display-name>
+		<display-name>20</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I22.28458834.microsoft.com">
+		<display-name>KWHY</display-name>
+		<display-name>22 KWHY</display-name>
+		<display-name>22</display-name>
+		<display-name>MundoFOX Affiliate</display-name>
+	</channel>
+	<channel id="I22.195990601.microsoft.com">
+		<display-name>KWHYDT</display-name>
+		<display-name>22 KWHYDT</display-name>
+		<display-name>22</display-name>
+		<display-name>KWHYDT (KWHY-DT)</display-name>
+		<display-name>MundoFOX Affiliate</display-name>
+	</channel>
+	<channel id="I24.28455504.microsoft.com">
+		<display-name>KVCR</display-name>
+		<display-name>24 KVCR</display-name>
+		<display-name>24</display-name>
+		<display-name>PBS Affiliate</display-name>
+	</channel>
+	<channel id="I24.164213144.microsoft.com">
+		<display-name>KVCRDT</display-name>
+		<display-name>24 KVCRDT</display-name>
+		<display-name>24</display-name>
+		<display-name>KVCRDT (KVCR-DT)</display-name>
+		<display-name>PBS Affiliate</display-name>
+	</channel>
+	<channel id="I28.28455219.microsoft.com">
+		<display-name>KCET</display-name>
+		<display-name>28 KCET</display-name>
+		<display-name>28</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I28.28460722.microsoft.com">
+		<display-name>KCETDT</display-name>
+		<display-name>28 KCETDT</display-name>
+		<display-name>28</display-name>
+		<display-name>KCETDT (KCET-DT)</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I30.164199925.microsoft.com">
+		<display-name>KPXNSAT</display-name>
+		<display-name>30 KPXNSAT</display-name>
+		<display-name>30</display-name>
+		<display-name>KPXN Satellite Feed</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I31.27857267.microsoft.com">
+		<display-name>KVMDDT</display-name>
+		<display-name>31 KVMDDT</display-name>
+		<display-name>31</display-name>
+		<display-name>KVMDDT (KVMD-DT)</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I34.28457527.microsoft.com">
+		<display-name>KMEX</display-name>
+		<display-name>34 KMEX</display-name>
+		<display-name>34</display-name>
+		<display-name>Univision (SI) Affiliate</display-name>
+	</channel>
+	<channel id="I44.28457924.microsoft.com">
+		<display-name>KXLA</display-name>
+		<display-name>44 KXLA</display-name>
+		<display-name>44</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I46.28455606.microsoft.com">
+		<display-name>KFTR</display-name>
+		<display-name>46 KFTR</display-name>
+		<display-name>46</display-name>
+		<display-name>UniMas Affiliate</display-name>
+	</channel>
+	<channel id="I46.195990895.microsoft.com">
+		<display-name>KFTRDT</display-name>
+		<display-name>46 KFTRDT</display-name>
+		<display-name>46</display-name>
+		<display-name>KFTRDT (KFTR-DT)</display-name>
+		<display-name>UniMas Affiliate</display-name>
+	</channel>
+	<channel id="I50.28455820.microsoft.com">
+		<display-name>KOCE</display-name>
+		<display-name>50 KOCE</display-name>
+		<display-name>50</display-name>
+		<display-name>PBS Affiliate</display-name>
+	</channel>
+	<channel id="I50.41866270.microsoft.com">
+		<display-name>KOCEDT</display-name>
+		<display-name>50 KOCEDT</display-name>
+		<display-name>50</display-name>
+		<display-name>KOCEDT (KOCE-DT)</display-name>
+		<display-name>PBS Affiliate</display-name>
+	</channel>
+	<channel id="I52.28456075.microsoft.com">
+		<display-name>KVEA</display-name>
+		<display-name>52 KVEA</display-name>
+		<display-name>52</display-name>
+		<display-name>TELEMUNDO (HBC) Affiliate</display-name>
+	</channel>
+	<channel id="I52.195602964.microsoft.com">
+		<display-name>KVEADT</display-name>
+		<display-name>52 KVEADT</display-name>
+		<display-name>52</display-name>
+		<display-name>KVEADT (KVEA-DT)</display-name>
+		<display-name>TELEMUNDO (HBC) Affiliate</display-name>
+	</channel>
+	<channel id="I54.28459245.microsoft.com">
+		<display-name>KAZA</display-name>
+		<display-name>54 KAZA</display-name>
+		<display-name>54</display-name>
+		<display-name>Azteca America Affiliate</display-name>
+	</channel>
+	<channel id="I54.195990735.microsoft.com">
+		<display-name>KAZADT</display-name>
+		<display-name>54 KAZADT</display-name>
+		<display-name>54</display-name>
+		<display-name>KAZADT (KAZA-DT)</display-name>
+		<display-name>Azteca America Affiliate</display-name>
+	</channel>
+	<channel id="I56.28455601.microsoft.com">
+		<display-name>KDOC</display-name>
+		<display-name>56 KDOC</display-name>
+		<display-name>56</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I56.195990598.microsoft.com">
+		<display-name>KDOCDT</display-name>
+		<display-name>56 KDOCDT</display-name>
+		<display-name>56</display-name>
+		<display-name>KDOCDT (KDOC-DT)</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I57.28457358.microsoft.com">
+		<display-name>KJLA</display-name>
+		<display-name>57 KJLA</display-name>
+		<display-name>57</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I57.195990558.microsoft.com">
+		<display-name>KJLADT</display-name>
+		<display-name>57 KJLADT</display-name>
+		<display-name>57</display-name>
+		<display-name>KJLADT (KJLA-DT)</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I58.28457739.microsoft.com">
+		<display-name>KLCS</display-name>
+		<display-name>58 KLCS</display-name>
+		<display-name>58</display-name>
+		<display-name>PBS Affiliate</display-name>
+	</channel>
+	<channel id="I62.28457994.microsoft.com">
+		<display-name>KRCA</display-name>
+		<display-name>62 KRCA</display-name>
+		<display-name>62</display-name>
+		<display-name>EstrellaTV Affiliate</display-name>
+	</channel>
+	<channel id="I62.195990855.microsoft.com">
+		<display-name>KRCADT</display-name>
+		<display-name>62 KRCADT</display-name>
+		<display-name>62</display-name>
+		<display-name>KRCADT (KRCA-DT)</display-name>
+		<display-name>EstrellaTV Affiliate</display-name>
+	</channel>
+	<channel id="I63.28457828.microsoft.com">
+		<display-name>KBEH</display-name>
+		<display-name>63 KBEH</display-name>
+		<display-name>63</display-name>
+		<display-name>Independent</display-name>
+	</channel>
+	<channel id="I71.273243375.microsoft.com">
+		<display-name>IDEA</display-name>
+		<display-name>71 IDEA</display-name>
+		<display-name>71</display-name>
+		<display-name>Shop IDEA for the products you want and</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I72.273243373.microsoft.com">
+		<display-name>YOUTV1</display-name>
+		<display-name>72 YOUTV1</display-name>
+		<display-name>72</display-name>
+		<display-name>DISH SRN3</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I77.28461190.microsoft.com">
+		<display-name>KABCDT</display-name>
+		<display-name>77 KABCDT</display-name>
+		<display-name>77</display-name>
+		<display-name>KABCDT (KABC-DT)</display-name>
+		<display-name>ABC Affiliate</display-name>
+	</channel>
+	<channel id="I78.28457033.microsoft.com">
+		<display-name>KCBSDT</display-name>
+		<display-name>78 KCBSDT</display-name>
+		<display-name>78</display-name>
+		<display-name>KCBSDT (KCBS-DT)</display-name>
+		<display-name>CBS Affiliate</display-name>
+	</channel>
+	<channel id="I79.28460666.microsoft.com">
+		<display-name>KNBCDT</display-name>
+		<display-name>79 KNBCDT</display-name>
+		<display-name>79</display-name>
+		<display-name>KNBCDT (KNBC-DT)</display-name>
+		<display-name>NBC Affiliate</display-name>
+	</channel>
+	<channel id="I80.28457791.microsoft.com">
+		<display-name>KTTVDT</display-name>
+		<display-name>80 KTTVDT</display-name>
+		<display-name>80</display-name>
+		<display-name>KTTVDT (KTTV-DT)</display-name>
+		<display-name>Fox Affiliate</display-name>
+	</channel>
+	<channel id="I81.217045519.microsoft.com">
+		<display-name>ICTVDN</display-name>
+		<display-name>81 ICTVDN</display-name>
+		<display-name>81</display-name>
+		<display-name>In Country TV Dish</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I82.284420795.microsoft.com">
+		<display-name>FETV</display-name>
+		<display-name>82 FETV</display-name>
+		<display-name>82</display-name>
+		<display-name>Family Entertainment Television</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I83.28461411.microsoft.com">
+		<display-name>JTV</display-name>
+		<display-name>83 JTV</display-name>
+		<display-name>83</display-name>
+		<display-name>Jewelry Television</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I84.28455962.microsoft.com">
+		<display-name>HSN</display-name>
+		<display-name>84 HSN</display-name>
+		<display-name>84</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I85.182888931.microsoft.com">
+		<display-name>BEST</display-name>
+		<display-name>85 BEST</display-name>
+		<display-name>85</display-name>
+		<display-name>Newsmax TV</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I86.251179354.microsoft.com">
+		<display-name>MALL</display-name>
+		<display-name>86 MALL</display-name>
+		<display-name>86</display-name>
+		<display-name>Satellite Response Network 7</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I87.259703928.microsoft.com">
+		<display-name>ROCKSTV</display-name>
+		<display-name>87 ROCKSTV</display-name>
+		<display-name>87</display-name>
+		<display-name>Rocks TV</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<channel id="I94.273243377.microsoft.com">
+		<display-name>VALU</display-name>
+		<display-name>94 VALU</display-name>
+		<display-name>94</display-name>
+		<display-name>VALU has the best products offered on TV</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I95.291286369.microsoft.com">
+		<display-name>DN9645</display-name>
+		<display-name>95 DN9645</display-name>
+		<display-name>95</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I99.28459748.microsoft.com">
+		<display-name>LOOR099</display-name>
+		<display-name>99 LOOR099</display-name>
+		<display-name>99</display-name>
+		<display-name>Local Origination - LOOR099</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<channel id="I100.28460362.microsoft.com">
+		<display-name>DHITV</display-name>
+		<display-name>100 DHITV</display-name>
+		<display-name>100</display-name>
+		<display-name>Dish Home Interactive TV</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I101.28456039.microsoft.com">
+		<display-name>INFO101</display-name>
+		<display-name>101 INFO101</display-name>
+		<display-name>101</display-name>
+		<display-name>Information Channel - INFO101</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<channel id="I102.277738157.microsoft.com">
+		<display-name>STDIO</display-name>
+		<display-name>102 STDIO</display-name>
+		<display-name>102</display-name>
+		<display-name>Dish Studio</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I103.28457912.microsoft.com">
+		<display-name>ONPM1</display-name>
+		<display-name>103 ONPM1</display-name>
+		<display-name>103</display-name>
+		<display-name>Echostar 3 Minute Movie Guide</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<channel id="I104.273243375.microsoft.com">
+		<display-name>IDEA</display-name>
+		<display-name>104 IDEA</display-name>
+		<display-name>104</display-name>
+		<display-name>Shop IDEA for the products you want and</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I105.28459373.microsoft.com">
+		<display-name>USA</display-name>
+		<display-name>105 USA</display-name>
+		<display-name>105</display-name>
+		<display-name>USA Network</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I105.180623603.microsoft.com">
+		<display-name>USAHD</display-name>
+		<display-name>105 USAHD</display-name>
+		<display-name>105</display-name>
+		<display-name>USA Network HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I106.28457157.microsoft.com">
+		<display-name>TVLAND</display-name>
+		<display-name>106 TVLAND</display-name>
+		<display-name>106</display-name>
+		<display-name>TV Land</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I107.28455994.microsoft.com">
+		<display-name>COMEDY</display-name>
+		<display-name>107 COMEDY</display-name>
+		<display-name>107</display-name>
+		<display-name>Comedy Central</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I107.204092670.microsoft.com">
+		<display-name>CCHD</display-name>
+		<display-name>107 CCHD</display-name>
+		<display-name>107</display-name>
+		<display-name>Comedy Central HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I108.28460884.microsoft.com">
+		<display-name>LIFE</display-name>
+		<display-name>108 LIFE</display-name>
+		<display-name>108</display-name>
+		<display-name>Lifetime</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I108.189961419.microsoft.com">
+		<display-name>LIFEHD</display-name>
+		<display-name>108 LIFEHD</display-name>
+		<display-name>108</display-name>
+		<display-name>Lifetime HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I109.28456881.microsoft.com">
+		<display-name>LMN</display-name>
+		<display-name>109 LMN</display-name>
+		<display-name>109</display-name>
+		<display-name>Lifetime Movie Network</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I109.169636232.microsoft.com">
+		<display-name>LMNHD</display-name>
+		<display-name>109 LMNHD</display-name>
+		<display-name>109</display-name>
+		<display-name>Lifetime Movie Network HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I110.28460443.microsoft.com">
+		<display-name>FOOD</display-name>
+		<display-name>110 FOOD</display-name>
+		<display-name>110</display-name>
+		<display-name>Food Network</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I110.49343391.microsoft.com">
+		<display-name>FOODHD</display-name>
+		<display-name>110 FOODHD</display-name>
+		<display-name>110</display-name>
+		<display-name>Food Network HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I111.28459136.microsoft.com">
+		<display-name>DIY</display-name>
+		<display-name>111 DIY</display-name>
+		<display-name>111</display-name>
+		<display-name>Do-It-Yourself Network</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I111.235635912.microsoft.com">
+		<display-name>DIYHD</display-name>
+		<display-name>111 DIYHD</display-name>
+		<display-name>111</display-name>
+		<display-name>Do-It-Yourself Network HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I112.28456587.microsoft.com">
+		<display-name>HGTV</display-name>
+		<display-name>112 HGTV</display-name>
+		<display-name>112</display-name>
+		<display-name>Home &amp; Garden Television</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I112.47337845.microsoft.com">
+		<display-name>HGTVD</display-name>
+		<display-name>112 HGTVD</display-name>
+		<display-name>112</display-name>
+		<display-name>Home &amp; Garden Television HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I113.28459278.microsoft.com">
+		<display-name>COOK</display-name>
+		<display-name>113 COOK</display-name>
+		<display-name>113</display-name>
+		<display-name>Cooking Channel</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I113.240111330.microsoft.com">
+		<display-name>COOKHD</display-name>
+		<display-name>113 COOKHD</display-name>
+		<display-name>113</display-name>
+		<display-name>Cooking Channel HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I114.28455818.microsoft.com">
+		<display-name>E</display-name>
+		<display-name>114 E</display-name>
+		<display-name>114</display-name>
+		<display-name>E! Entertainment Television</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I114.199647888.microsoft.com">
+		<display-name>EHD</display-name>
+		<display-name>114 EHD</display-name>
+		<display-name>114</display-name>
+		<display-name>E! Entertainment Television HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I116.28455658.microsoft.com">
+		<display-name>GSN</display-name>
+		<display-name>116 GSN</display-name>
+		<display-name>116</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I116.247203355.microsoft.com">
+		<display-name>GSNHD</display-name>
+		<display-name>116 GSNHD</display-name>
+		<display-name>116</display-name>
+		<display-name>GSN HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I117.28460209.microsoft.com">
+		<display-name>POPSD</display-name>
+		<display-name>117 POPSD</display-name>
+		<display-name>117</display-name>
+		<display-name>POP</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I118.28459333.microsoft.com">
+		<display-name>AETV</display-name>
+		<display-name>118 AETV</display-name>
+		<display-name>118</display-name>
+		<display-name>A&amp;E Network</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I118.49591939.microsoft.com">
+		<display-name>AETVHD</display-name>
+		<display-name>118 AETVHD</display-name>
+		<display-name>118</display-name>
+		<display-name>A&amp;E Network HD East</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I119.28459699.microsoft.com">
+		<display-name>FYISD</display-name>
+		<display-name>119 FYISD</display-name>
+		<display-name>119</display-name>
+		<display-name>FYI</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I119.183145425.microsoft.com">
+		<display-name>BIOHD</display-name>
+		<display-name>119 BIOHD</display-name>
+		<display-name>119</display-name>
+		<display-name>FYI Channel HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I120.28457181.microsoft.com">
+		<display-name>HISTORY</display-name>
+		<display-name>120 HISTORY</display-name>
+		<display-name>120</display-name>
+		<display-name>History</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I120.177450823.microsoft.com">
+		<display-name>HSTRYHD</display-name>
+		<display-name>120 HSTRYHD</display-name>
+		<display-name>120</display-name>
+		<display-name>History HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I121.28455593.microsoft.com">
+		<display-name>HISI</display-name>
+		<display-name>121 HISI</display-name>
+		<display-name>121</display-name>
+		<display-name>H2</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I121.224014324.microsoft.com">
+		<display-name>H2HD</display-name>
+		<display-name>121 H2HD</display-name>
+		<display-name>121</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I122.28456824.microsoft.com">
+		<display-name>SYFY</display-name>
+		<display-name>122 SYFY</display-name>
+		<display-name>122</display-name>
+		<display-name>Syfy</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I122.182414702.microsoft.com">
+		<display-name>SCIFIHD</display-name>
+		<display-name>122 SCIFIHD</display-name>
+		<display-name>122</display-name>
+		<display-name>Syfy HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I123.251179354.microsoft.com">
+		<display-name>MALL</display-name>
+		<display-name>123 MALL</display-name>
+		<display-name>123</display-name>
+		<display-name>Satellite Response Network 7</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I124.28459874.microsoft.com">
+		<display-name>BET</display-name>
+		<display-name>124 BET</display-name>
+		<display-name>124</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I124.210504722.microsoft.com">
+		<display-name>BETHD</display-name>
+		<display-name>124 BETHD</display-name>
+		<display-name>124</display-name>
+		<display-name>BET HD</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I125.237450271.microsoft.com">
+		<display-name>ADCH125</display-name>
+		<display-name>125 ADCH125</display-name>
+		<display-name>125</display-name>
+		<display-name>Ad Channel (Static) - ADCH125</display-name>
+		<display-name>Cablecast</display-name>
+	</channel>
+	<channel id="I126.254399521.microsoft.com">
+		<display-name>SUNDHD</display-name>
+		<display-name>126 SUNDHD</display-name>
+		<display-name>126</display-name>
+		<display-name>SundanceTV HD</display-name>
+		<display-name>PAY</display-name>
+	</channel>
+	<channel id="I127.28458795.microsoft.com">
+		<display-name>OXYGEN</display-name>
+		<display-name>127 OXYGEN</display-name>
+		<display-name>127</display-name>
+		<display-name>Oxygen</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I128.28458963.microsoft.com">
+		<display-name>WE</display-name>
+		<display-name>128 WE</display-name>
+		<display-name>128</display-name>
+		<display-name>WE tv</display-name>
+		<display-name>Satellite</display-name>
+	</channel>
+	<channel id="I128.183404361.microsoft.com">
+		<display-name>WEHD</display-name>
+		<display-name>128 WEHD</display-name>    
