@@ -156,8 +156,12 @@ http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="Music",Punjabi Tadka
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
+#EXTINF:-1,Epix Hits
+http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/974
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movies",Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
+#EXTINF:-1,HBO
+http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/424
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/hbo2.png" group-title="Movies",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",AMC
