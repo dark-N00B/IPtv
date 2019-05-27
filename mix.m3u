@@ -31,8 +31,10 @@ http://4ever.biz:80/Bree/Bree/23765
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Channel HD
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/451
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Science US
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/449
+#EXTINF:-1,Discovery Science UK
+http://4ever.biz:80/Bree/Bree/749
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Velocity
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/988
 #EXTINF:-1,DISCOVERY HD SHOWCASE
@@ -47,6 +49,8 @@ http://4ever.biz:80/Bree/Bree/23766
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/436
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/227966_logo_star_world.png" group-title="Entertainment",Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
+#EXTINF:-1,Comedy Central Extra
+http://4ever.biz:80/Bree/Bree/2594
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",TBS
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/421
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",BBC America
@@ -59,6 +63,8 @@ http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/895
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 #EXTINF:-1,E!
 http://4ever.biz:80/Bree/Bree/23675
+#EXTINF:-1,Lifetime HD
+http://primestreams.tv:826/jamesfamily/jamesfamily/36898
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",My 24
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/886
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",FOX10 Xtra
@@ -170,6 +176,8 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 #EXTINF:-1,Epix Hits
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/974
+#EXTINF:-1,A & E
+http://primestreams.tv:826/jamesfamily/jamesfamily/36885
 #EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movies",Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 #EXTINF:-1,HBO
@@ -204,6 +212,30 @@ http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2722
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2013
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Starz Comedy
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/2728
+
+#EXTINF:-1,Sky Movies Action
+http://4ever.biz:80/Bree/Bree/24
+#EXTINF:-1,Sky Movies Thriller
+http://4ever.biz:80/Bree/Bree/944
+#EXTINF:-1,Sky Movies Family
+http://4ever.biz:80/Bree/Bree/27
+#EXTINF:-1,Sky Movies Drama
+http://4ever.biz:80/Bree/Bree/422
+#EXTINF:-1,Sky Movies Disney
+http://4ever.biz:80/Bree/Bree/29
+#EXTINF:-1,Sky Movies Select
+http://4ever.biz:80/Bree/Bree/33
+#EXTINF:-1,Sky Movies Comedy
+http://4ever.biz:80/Bree/Bree/25
+#EXTINF:-1,Sky Movies Premiere
+http://4ever.biz:80/Bree/Bree/31
+#EXTINF:-1,Sky Movies ScFi & Horror
+http://4ever.biz:80/Bree/Bree/32
+#EXTINF:-1,Sky Movies Greats
+http://4ever.biz:80/Bree/Bree/9770
+#EXTINF:-1,English Movies Hits
+http://4ever.biz:80/Bree/Bree/9771
+
 #EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/espn.png" group-title="Sports",ESPN
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sports 24/7" tvg-logo="/logo/" group-title="Sports",ESPN 2
@@ -212,18 +244,32 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/445
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",UNIVERSAL kids
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/417
+#EXTINF:-1,FAMILY WEST Canada
+http://4ever.biz:80/live/Bree/Bree/9341.m3u8
+#EXTINF:-1,YTV
+http://4ever.biz:80/live/Bree/Bree/9325.m3u8
 #EXTINF:-1,Nickelodeon
 http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8532
-#EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Cartoon Network
+#EXTINF:-1,BBC Cartoon
+http://4ever.biz:80/Bree/Bree/11243
+#EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Cartoon Network Canada
 http://4ever.biz:80/Bree/Bree/23933
+#EXTINF:-1,Cartoon Network HD UK
+http://4ever.biz:80/Bree/Bree/2599
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Discovery Family
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/450
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Disney Channel
 http://4ever.biz:80/Bree/Bree/23887
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Disney Junior
 http://4ever.biz:80/Bree/Bree/23886
+#EXTINF:-1,DISNEY JR Canada
+http://primestreams.tv:826/jamesfamily/jamesfamily/36912
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Disney XD
 http://4ever.biz:80/Bree/Bree/23885
+#EXTINF:-1,Nickelodeon
+http://4ever.biz:80/Bree/Bree/956
+#EXTINF:-1,Nick.JR
+http://4ever.biz:80/Bree/Bree/2628
 #EXTINF:-1,Nick Toons
 http://linux-app.tv:6204/12006036/mhamad-gazal07606739/10397
 
