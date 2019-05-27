@@ -209,7 +209,40 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/427
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Disney XD
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/426
 
-#EXTINF:-1,&TV HD
+
+
+
+#EXTINF:-1,Willow Cricket
+http://4ever.biz:80/Bree/Bree/1549
+#EXTINF:-1,Sun Music
+http://4ever.biz:80/Bree/Bree/5609
+#EXTINF:-1,REPUBLIC TV NEWS
+http://4ever.biz:80/Bree/Bree/8123
+#EXTINF:-1,Punjabi Garv
+http://4ever.biz:80/Bree/Bree/7835
+#EXTINF:-1,& Flix HD
+http://4ever.biz:80/Bree/Bree/8121
+#EXTINF:-1,UTV Action
+http://4ever.biz:80/Bree/Bree/7807
+#EXTINF:-1,Discovery HD World
+http://4ever.biz:80/Bree/Bree/7926
+#EXTINF:-1,& Prive HD
+http://4ever.biz:80/Bree/Bree/7836
+#EXTINF:-1,MTV
+http://4ever.biz:80/Bree/Bree/7816
+#EXTINF:-1,UTV HD
+http://4ever.biz:80/Bree/Bree/7831
+#EXTINF:-1,DD NEWS
+http://4ever.biz:80/Bree/Bree/7913
+#EXTINF:-1,Colors Bangla HD
+http://4ever.biz:80/Bree/Bree/4002
+#EXTINF:-1,Bangla Rtv
+http://4ever.biz:80/Bree/Bree/7771
+#EXTINF:-1,9xM
+http://4ever.biz:80/Bree/Bree/5636
+#EXTINF:-1,& Picture HD
+http://4ever.biz:80/Bree/Bree/4070
+#EXTINF:-1,& TV HD
 http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8382
 #EXTINF:-1,Sony TV HD
 http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8390
