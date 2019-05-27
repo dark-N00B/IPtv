@@ -184,8 +184,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/424
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/hbo2.png" group-title="Movies",HBO 2
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1,Sony Movies US
-http://linux-app.tv:6204/12006036/mhamad-gazal07606739/16410
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",AMC
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/456
 #EXTINF:-1 tvg-id="" tvg-name="Non-Stop Movies 24/7" tvg-logo="/logo/" group-title="Movies",Cozi TV
@@ -266,12 +264,8 @@ http://4ever.biz:80/Bree/Bree/23886
 http://primestreams.tv:826/jamesfamily/jamesfamily/36912
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Disney XD
 http://4ever.biz:80/Bree/Bree/23885
-#EXTINF:-1,Nickelodeon
-http://4ever.biz:80/Bree/Bree/956
 #EXTINF:-1,Nick.JR
 http://4ever.biz:80/Bree/Bree/2628
-#EXTINF:-1,Nick Toons
-http://linux-app.tv:6204/12006036/mhamad-gazal07606739/10397
 
 
 
@@ -305,21 +299,3 @@ http://4ever.biz:80/Bree/Bree/7771
 http://4ever.biz:80/Bree/Bree/5636
 #EXTINF:-1,& Picture HD
 http://4ever.biz:80/Bree/Bree/4070
-#EXTINF:-1,& TV HD
-http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8382
-#EXTINF:-1,Sony TV HD
-http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8390
-#EXTINF:-1,Star Gold FHD
-http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8380
-#EXTINF:-1,COLORS TV UK
-http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8394
-#EXTINF:-1,Zee TV HD
-http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8377
-#EXTINF:-1,Zing TV
-http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8947
-#EXTINF:-1,Ten Sport HD
-http://linux-app.tv:6204/12006036/mhamad-gazal07606739/13445
-#EXTINF:-1,Sony Ten 1 HD
-http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8931
-#EXTINF:-1,Sony Ten 2 HD
-http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8930
