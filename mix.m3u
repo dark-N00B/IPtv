@@ -35,6 +35,8 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/451
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/449
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Velocity
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/988
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://voxtv.dynns.com:8000/USA/USA/2279
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Animal Planet
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/455
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",NATGEO
@@ -55,7 +57,7 @@ http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/896
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/895
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/Punjab_TV_logo.png" group-title="Entertainment",Punjab TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1,POP
+#EXTINF:-1,E!
 http://4ever.biz:80/Bree/Bree/23675
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",My 24
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/886
@@ -140,6 +142,10 @@ http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/558/index.m3u8
 http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/153/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Music",MTV Live
 http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/221/index.m3u8
+#EXTINF:-1,MTV Music UK
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19049.m3u8
+#EXTINF:-1,MTV Rocks
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19050.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1hd.ru/assets/site/images/logo.png" group-title="Music",1 HD Music
 http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://online-red.com/images/tv/one-hd.png" group-title="Music",First Music 1
@@ -206,17 +212,19 @@ http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/445
 https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",UNIVERSAL kids
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/417
+#EXTINF:-1,Nickelodeon
+http://linux-app.tv:6204/12006036/mhamad-gazal07606739/8532
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Cartoon Network
-http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/429
+http://4ever.biz:80/Bree/Bree/23933
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Discovery Family
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/450
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Disney Channel
-http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/428
+http://4ever.biz:80/Bree/Bree/23887
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Disney Junior
-http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/427
+http://4ever.biz:80/Bree/Bree/23886
 #EXTINF:-1 tvg-id="" tvg-name="Kids 24/7" tvg-logo="/logo/" group-title="Kids",Disney XD
-http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/426
-#EXTINF:-1,Nick Junior
+http://4ever.biz:80/Bree/Bree/23885
+#EXTINF:-1,Nick Toons
 http://linux-app.tv:6204/12006036/mhamad-gazal07606739/10397
 
 
