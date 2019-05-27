@@ -25,6 +25,8 @@ http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Others",177 HD
 http://161.0.157.5/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1,NASA TV
+http://4ever.biz:80/Bree/Bree/23765
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Channel
 http://80.80.160.168/live/8/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",Discovery Channel HD
@@ -37,6 +39,8 @@ http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/988
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/455
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",NATGEO
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/422
+#EXTINF:-1,Nat Geo Wild
+http://4ever.biz:80/Bree/Bree/23766
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="Entertainment",SYFY
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/436
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/227966_logo_star_world.png" group-title="Entertainment",Star World
@@ -51,6 +55,8 @@ http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/896
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/895
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/Punjab_TV_logo.png" group-title="Entertainment",Punjab TV
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1,POP
+http://4ever.biz:80/Bree/Bree/23675
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",My 24
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/886
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="/logo/" group-title="LifeStyle",FOX10 Xtra
@@ -131,7 +137,7 @@ http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="Music",MTV Dance
 http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/558/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="Music",MTV Hits
-http://4ever.biz:80/live/Bree/Bree/23772.m3u8
+http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/153/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" group-title="Music",MTV Live
 http://91dfeb88.iptvzone.me/iptv/3RD7RBR9A3CVSX/221/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1hd.ru/assets/site/images/logo.png" group-title="Music",1 HD Music
@@ -158,7 +164,7 @@ http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 http://linear05hun-lh.akamaihd.net/i/punjabitadka_1@665242/master.m3u8
 #EXTINF:-1,Epix Hits
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/974
-#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movies",Star Movies
+#EXTINF:-1 tvg-logo="http://upload.wikimedia.org/wikipedia/id/f/f1/Star_movies_hd.png" group-title="Movies",Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 #EXTINF:-1,HBO
 http://158.69.52.44:25461/CANALES_BUDTV/h23sxgibM0/424
