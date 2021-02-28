@@ -1,6 +1,6 @@
 
 
-### IPTV channels in this repo are no more updated!
+# IPTV channels in this repo are no more updated!
 
 ## Third Party IPtv (currently not working)
 
