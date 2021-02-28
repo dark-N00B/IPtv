@@ -1,4 +1,8 @@
-## Third Party IPtv (currently working)
+
+
+##IPTV channels in this repo are no more updated!
+
+## Third Party IPtv (currently not working)
 
 Paste this Playlist Link into your IPTV Player url resource area:
 https://raw.githubusercontent.com/dark-N00B/IPtv/master/new_indian_tv.m3u
