@@ -1,6 +1,6 @@
 
 
-# IPTV channels in this repo are no more updated!
+# IPtv channels in this repo are no more updated!
 
 ## Third Party IPtv
 
@@ -18,4 +18,4 @@ Paste this Link into your IPTV Player EPG url resource area (If Applicable):
 http://github.com/dark-N00B/IPtv/blob/master/xmltv.xml?raw=true
 
 ### Contact
-Report Not Working links or Channels here: https://t.me/dark_noob
+If you want to submit your playlist here, or report Not Working links or Channels, contact here: https://t.me/dark_noob
