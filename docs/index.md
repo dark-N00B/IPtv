@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/dark-N00B/IPtv/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# IPtv channels in this repo are ~~no more~~ updated!
 
-### Markdown
+## Third-Party IPtv
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- <b>TiviMate only playlist (Updated 26th July 2021):</b>
+```https://bit.ly/3ydYCPe```(EPG is also included)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Paste this Playlist Link into your IPTV Player url resource area:
+```
+https://raw.githubusercontent.com/dark-N00B/IPtv/master/new_indian_tv.m3u
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## IPtv
+This is my personal fully functional IPtv list
 
-### Jekyll Themes
+### Setup
+- Paste this Playlist Link into your IPTV Player url resource area:
+```
+http://github.com/dark-N00B/IPtv/raw/master/mix.m3u
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dark-N00B/IPtv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Paste this Link into your IPTV Player EPG url resource area (If Applicable):
+```
+http://github.com/dark-N00B/IPtv/blob/master/xmltv.xml?raw=true
+```
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+If you want to submit your playlist here, or report Not Working links or Channels, contact me on [Telegram](https://t.me/dark_noob)
