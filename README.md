@@ -1,8 +1,11 @@
 
 
-# IPtv channels in this repo are no more updated!
+# IPtv channels in this repo are ~~no more~~ updated!
 
 ## Third-Party IPtv
+
+- <b>TiviMate only playlist (Updated 26th July 2021):</b>
+```https://bit.ly/3ydYCPe```
 
 - Paste this Playlist Link into your IPTV Player url resource area:
 ```
