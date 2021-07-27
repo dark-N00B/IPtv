@@ -1,6 +1,6 @@
 
 
-# IPtv channels in this repo are ~~no more~~ updated!
+# IPtv Links were last updated on 26th July
 
 ## Third-Party IPtv
 
