@@ -4,7 +4,7 @@
 
 ## Third-Party IPtv
 
-- <b>TiviMate only playlist (Updated 26th July 2021):</b>
+- <b>[TiviMate](https://www.google.com/search?q=tivimate) only playlist (Updated 26th July 2021):</b>
 ```https://bit.ly/3ydYCPe```(EPG is also included)
 
 - Paste this Playlist Link into your IPTV Player url resource area:
