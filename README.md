@@ -1,4 +1,4 @@
-
+Disclaimer: I in no possile way endorse these links and they are openly availbale to the public on the internet!
 
 # IPtv channels in this repo are ~~no more~~ updated!
 
