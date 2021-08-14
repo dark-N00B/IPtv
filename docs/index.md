@@ -2,6 +2,8 @@
 
 # IPtv Links were last updated on 26th July
 
+Disclaimer: I in no possile way endorse these links and they are openly availbale to the public on the internet!
+
 ## Third-Party IPtv
 
 - <b>[TiviMate](https://www.google.com/search?q=tivimate) only playlist (Updated 26th July 2021):</b>
@@ -12,7 +14,7 @@
 https://raw.githubusercontent.com/dark-N00B/IPtv/master/new_indian_tv.m3u
 ```
 
-## IPtv
+## IPtv (Not updated anymore -- refer to Third-Party links)
 This is my personal fully functional IPtv list
 
 ### Setup
