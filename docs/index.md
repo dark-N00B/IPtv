@@ -1,6 +1,7 @@
 
 
 # IPtv Links were last updated on 26th July
+## Services have been stopped indefinitely until further notice
 
 Disclaimer: I in no possile way endorse these links and they are openly availbale to the public on the internet!
 
