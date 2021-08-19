@@ -4,9 +4,9 @@
 
 Disclaimer: I in no possile way endorse these links and they are openly availbale to the public on the internet!
 
-## Third-Party IPtv
+## Third-Party IPtv (not working anymore)
 
-- <b>[TiviMate](https://www.google.com/search?q=tivimate) only playlist (Auto-Updated):</b>
+- <b>[TiviMate](https://www.google.com/search?q=tivimate) only playlist (Not Updated Anymore):</b>
 ```https://bit.ly/3ydYCPe```(EPG is also included)
 
 - Paste this Playlist Link into your IPTV Player url resource area:
