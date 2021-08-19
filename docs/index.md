@@ -16,7 +16,6 @@ https://raw.githubusercontent.com/dark-N00B/IPtv/master/new_indian_tv.m3u
 ```
 
 ## IPtv (Not updated anymore -- refer to Third-Party links)
-This is my personal fully functional IPtv list
 
 ### Setup
 - Paste this Playlist Link into your IPTV Player url resource area:
