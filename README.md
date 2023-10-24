@@ -1,6 +1,6 @@
 Disclaimer: I in no possible way endorse these links. They are openly availbale to the public on the internet!
 
-# IPtv channels in this repo are no more updated!
+# IPtv channels in this repo are no longer updated!
 
 ## Third-Party IPtv (not working anymore)
 
